@@ -1,7 +1,7 @@
 # Dashboard-Design
 
 ## 📌 Project Overview
-This project analyzes **Superstore Sales data** to uncover trends and insights across **time, regions, and product categories**. Using **Tableau Desktop (Mac)**, I built an interactive dashboard with multiple visualizations and filters.
+This project analyzes **Superstore Sales data** to uncover trends and insights across **time, regions, and product categories**. Using **Tableau Desktop **, I built an interactive dashboard with multiple visualizations and filters.
 
 The goal is to identify **sales performance drivers** and provide actionable business insights.
 
